@@ -22,6 +22,8 @@ description: "David and the Phoenix is a 1957 children's novel about a young boy
   \ young boy and a mythical bird—and focuses on David's education in the ways of\
   \ the mythical world. The book ends with the phoenix's rebirth.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27922#David-and-the-Phoenix
 gutenberg_issued: '2009-01-28'
 gutenberg_type: Text
 identifiers:
